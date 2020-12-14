@@ -24,7 +24,7 @@ app.use(express.static("public"));
 
 
 //copied from mongo db site
-//mongodb+srv://admin-doug:<password>@cluster0.be2gk.mongodb.net/<dbname>?retryWrites=true&w=majority
+// removed mongoDB from git hub
 
 
 
